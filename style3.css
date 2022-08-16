@@ -1,0 +1,130 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 2000px;
+    background-color: rgb(250, 228, 232);
+}
+.header{
+    color:black;
+     background-color: rgb(255, 184, 196);
+    height: 100px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+    left: 822px;
+    font-size: 40px;
+}
+.right{
+    display: inline-block;
+    /* width: auto; */
+    /* background-color: blue; */
+   position: absolute;
+     right: 60px;
+     top: 39px;
+
+     /* width: 200px; */
+     /* height: 50px; */
+     /* top: 20px;/ */
+
+}
+.btn{
+    margin: 0px 9px ;
+   color:black;
+    background-color: rgb(247, 112, 202) ;
+    /* background-color:  rgb(0, 110, 255); */
+    padding: 4px 14px;
+    border:0;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+  /* background-color:rgb(212, 212, 245); */
+     /* background-color:  rgb(114, 173, 250); */
+  background-color: wheat;
+}
+.container1{
+    height: 200px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.div1{
+   width: 900px;  
+   margin-left: 90px;
+
+}
+.div2{
+    margin-right: 150px;
+    margin-top: 30px;
+}
+h2{
+    font-size: 40px;
+    /* font-family: 'Alfa Slab One', cursive; */
+}
+ p{
+    font-size: 25px;
+    /* font-family: 'Concert One', cursive; */
+    font-family: 'Crimson Text', serif;
+}
+.container2{
+    height: 200px;
+    display: flex;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+.div3{
+    width: 700px;
+    margin-right: 140px;
+    
+}
+.div4{
+    margin-top:51px ;
+    margin-left: 120px;
+}
+.container3{
+    height: 200px;
+    display: flex;
+    margin-top: 300px;
+    justify-content: space-between;
+}
+.div5{
+    width: 700px;
+    margin-left: 100px;
+}
+.div6{
+    margin-top: 70px;
+    margin-right: 150px;
+}
+
+footer{
+margin-left: 150px;
+    margin-top: 450px;
+}
+footer p{
+    font-size: 20px;
+}
+h6{
+    text-align: center;
+    font-size: 17px;
+}
+.foot1{
+    text-align: center;
+}
+.foot2{
+    text-align: center;
+}
+.foot3{
+    text-align: center;
+}
+.foot4{
+    text-align: center;
+}
